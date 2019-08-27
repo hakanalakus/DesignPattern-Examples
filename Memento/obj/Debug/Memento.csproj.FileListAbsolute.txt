@@ -1,0 +1,7 @@
+C:\Users\bilge.adam\source\repos\ConsoleApp2\Memento\bin\Debug\Memento.exe.config
+C:\Users\bilge.adam\source\repos\ConsoleApp2\Memento\bin\Debug\Memento.exe
+C:\Users\bilge.adam\source\repos\ConsoleApp2\Memento\bin\Debug\Memento.pdb
+C:\Users\bilge.adam\source\repos\ConsoleApp2\Memento\obj\Debug\Memento.csprojAssemblyReference.cache
+C:\Users\bilge.adam\source\repos\ConsoleApp2\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\bilge.adam\source\repos\ConsoleApp2\Memento\obj\Debug\Memento.exe
+C:\Users\bilge.adam\source\repos\ConsoleApp2\Memento\obj\Debug\Memento.pdb

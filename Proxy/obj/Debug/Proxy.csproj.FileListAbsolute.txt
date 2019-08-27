@@ -1,0 +1,6 @@
+C:\Users\hakan\source\repos\Design_Patterns\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\hakan\source\repos\Design_Patterns\Proxy\bin\Debug\Proxy.exe
+C:\Users\hakan\source\repos\Design_Patterns\Proxy\bin\Debug\Proxy.pdb
+C:\Users\hakan\source\repos\Design_Patterns\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Design_Patterns\Proxy\obj\Debug\Proxy.exe
+C:\Users\hakan\source\repos\Design_Patterns\Proxy\obj\Debug\Proxy.pdb

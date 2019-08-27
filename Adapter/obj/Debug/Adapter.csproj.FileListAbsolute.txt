@@ -1,0 +1,7 @@
+C:\Users\hakan\source\repos\Design_Patterns\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\hakan\source\repos\Design_Patterns\Adapter\bin\Debug\Adapter.exe
+C:\Users\hakan\source\repos\Design_Patterns\Adapter\bin\Debug\Adapter.pdb
+C:\Users\hakan\source\repos\Design_Patterns\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\Design_Patterns\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Design_Patterns\Adapter\obj\Debug\Adapter.exe
+C:\Users\hakan\source\repos\Design_Patterns\Adapter\obj\Debug\Adapter.pdb

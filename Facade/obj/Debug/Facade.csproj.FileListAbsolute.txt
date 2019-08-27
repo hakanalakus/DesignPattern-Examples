@@ -1,0 +1,7 @@
+C:\Users\hakan\source\repos\Design_Patterns\Facade\bin\Debug\Facade.exe.config
+C:\Users\hakan\source\repos\Design_Patterns\Facade\bin\Debug\Facade.exe
+C:\Users\hakan\source\repos\Design_Patterns\Facade\bin\Debug\Facade.pdb
+C:\Users\hakan\source\repos\Design_Patterns\Facade\obj\Debug\Facade.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\Design_Patterns\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Design_Patterns\Facade\obj\Debug\Facade.exe
+C:\Users\hakan\source\repos\Design_Patterns\Facade\obj\Debug\Facade.pdb

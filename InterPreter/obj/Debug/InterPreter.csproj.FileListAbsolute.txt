@@ -1,0 +1,6 @@
+C:\Users\hakan\source\repos\Design_Patterns\InterPreter\bin\Debug\InterPreter.exe.config
+C:\Users\hakan\source\repos\Design_Patterns\InterPreter\bin\Debug\InterPreter.exe
+C:\Users\hakan\source\repos\Design_Patterns\InterPreter\bin\Debug\InterPreter.pdb
+C:\Users\hakan\source\repos\Design_Patterns\InterPreter\obj\Debug\InterPreter.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Design_Patterns\InterPreter\obj\Debug\InterPreter.exe
+C:\Users\hakan\source\repos\Design_Patterns\InterPreter\obj\Debug\InterPreter.pdb

@@ -1,0 +1,7 @@
+C:\Users\bilge.adam\source\repos\ConsoleApp2\Observer\bin\Debug\Observer.exe.config
+C:\Users\bilge.adam\source\repos\ConsoleApp2\Observer\bin\Debug\Observer.exe
+C:\Users\bilge.adam\source\repos\ConsoleApp2\Observer\bin\Debug\Observer.pdb
+C:\Users\bilge.adam\source\repos\ConsoleApp2\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\bilge.adam\source\repos\ConsoleApp2\Observer\obj\Debug\Observer.exe
+C:\Users\bilge.adam\source\repos\ConsoleApp2\Observer\obj\Debug\Observer.pdb
+C:\Users\bilge.adam\source\repos\ConsoleApp2\Observer\obj\Debug\Observer.csprojAssemblyReference.cache

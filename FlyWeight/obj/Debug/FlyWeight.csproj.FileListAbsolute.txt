@@ -1,0 +1,7 @@
+C:\Users\hakan\source\repos\Design_Patterns\FlyWeight\obj\Debug\FlyWeight.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\Design_Patterns\FlyWeight\obj\Debug\FlyWeight.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Design_Patterns\FlyWeight\bin\Debug\FlyWeight.exe.config
+C:\Users\hakan\source\repos\Design_Patterns\FlyWeight\bin\Debug\FlyWeight.exe
+C:\Users\hakan\source\repos\Design_Patterns\FlyWeight\bin\Debug\FlyWeight.pdb
+C:\Users\hakan\source\repos\Design_Patterns\FlyWeight\obj\Debug\FlyWeight.exe
+C:\Users\hakan\source\repos\Design_Patterns\FlyWeight\obj\Debug\FlyWeight.pdb
